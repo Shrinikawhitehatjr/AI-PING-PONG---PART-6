@@ -1,0 +1,11 @@
+body
+{
+   font-size: 22px;
+   background-size: cover;
+}
+canvas
+{
+   border-style: cover;
+   border-radius: 5px 5px 5px solid white;
+   text-align: center;
+}
